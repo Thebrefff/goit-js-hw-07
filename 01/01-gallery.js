@@ -34,3 +34,4 @@ instance.show()
 };
 
 galleryView.addEventListener('click', galleryClickView);
+
